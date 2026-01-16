@@ -55,7 +55,4 @@ For information on contributing to this project or understanding the backend cod
 
 Configuration Reference
 -----------------------
-
-For more details on configuring Hugging Face Spaces, you can check out the official documentation:
-
-*   [Hugging Face Spaces Configuration Reference](https://huggingface.co/docs/hub/spaces-config-reference)](https://github.com/nbintang/pi-cnn-model-api)](https://github.com/nbintang/pi-cnn-model-api)
+ 
