@@ -1,4 +1,4 @@
----
+[---
 title: Meat Freshness
 emoji: 🥩
 colorFrom: red
@@ -6,7 +6,7 @@ colorTo: pink
 sdk: docker
 pinned: false
 ---
-Meat Freshness Detection
+[Meat Freshness Detection
 ========================
 
 A **FastAPI application** designed to detect meat freshness using a pre-trained **Keras .h5 model**. This project is deployed efficiently via **Docker on Hugging Face Spaces**, providing an accessible and scalable solution for freshness prediction.
@@ -66,4 +66,4 @@ Configuration Reference
 
 For more details on configuring Hugging Face Spaces, you can check out the official documentation:
 
-*   [Hugging Face Spaces Configuration Reference](https://huggingface.co/docs/hub/spaces-config-reference)
+*   [Hugging Face Spaces Configuration Reference](https://huggingface.co/docs/hub/spaces-config-reference)](https://github.com/nbintang/pi-cnn-model-api buatkan readme .md tentang repo ini)](https://github.com/nbintang/pi-cnn-model-api buatkan readme .md tentang repo ini)
