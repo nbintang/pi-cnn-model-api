@@ -1,12 +1,4 @@
-[---
-title: Meat Freshness
-emoji: 🥩
-colorFrom: red
-colorTo: pink
-sdk: docker
-pinned: false
----
-[Meat Freshness Detection
+Meat Freshness Detection
 ========================
 
 A **FastAPI application** designed to detect meat freshness using a pre-trained **Keras .h5 model**. This project is deployed efficiently via **Docker on Hugging Face Spaces**, providing an accessible and scalable solution for freshness prediction.
